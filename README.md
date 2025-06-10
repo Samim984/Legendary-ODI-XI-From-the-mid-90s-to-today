@@ -1,7 +1,7 @@
 # Legendary-ODI-XI-From-the-mid-90s-to-today
 
 A glimpse of the Visual Career Chronicle Dashboards
-![image](https://github.com/user-attachments/assets/8c7c4ce2-e8ad-43da-aa0f-a6a04cb4a098)
+![image](https://github.com/user-attachments/assets/aa7a958d-0802-455f-84ba-aba2b09790a1)
 
 # 🏏 Visual Career Chronicle - Cricket Dashboard Project
 
